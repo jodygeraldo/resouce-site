@@ -29,3 +29,4 @@ layout: ../layouts/base.astro
 
 - [SVG in JSX](https://codesandbox.io/s/determined-taussig-hejr2?file=/index.html) svg + use html elements.
 - [Heroicons Symbols](https://gist.github.com/mcansh/ade07941189286f4a0870bc35f9e8c20) script to convert heroicons to symbols svg file.
+- [Remix Package Update Script](https://gist.github.com/kiliman/ba4586bea1acf06fe6cc12e76e8db94a)
