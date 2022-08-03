@@ -24,6 +24,7 @@ layout: ../layouts/base.astro
 - [Checklist Design](https://www.checklist.design/) is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets.
 - [CSS Polygon Shape](https://codepen.io/yuanchuan/full/QWGWXPz)
 - [Radix Colors](https://www.radix-ui.com/colors) an open-source color system for designing beautiful, accessible websites and apps.
+- [HyperUI](https://www.hyperui.dev/) Free Open Source Application UI Tailwind CSS Components.
 
 ## Code Snippet
 
